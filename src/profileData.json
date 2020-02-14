@@ -1,0 +1,82 @@
+
+{
+    "landing": {
+        "firstName": "Sophie",
+        "lastName": "McGarity",
+        "bio": "Upcoming NuCamp Full Stack Web and Mobile graduate offering a strong foundation in software development and programming principles across multiple platforms. Experienced in object-oriented programming; functional programming; developing, testing and debugging code; designing interfaces. Quickly learn and master new technologies; successful working in both team and self-directed settings.",
+        "email": "sophiemcgarity7@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/sophie-mcgarity-0866ba181/",
+        "github": "https://github.com/sophiemcgarity"
+    },
+    "experience": [
+        {
+            "position": "Full Stack Web and Mobile Development Portfolio Project",
+            "organization": "NuCamp Coding Boot Camp",
+            "aboutWork": "Project Scope: Worked as part of a two-member team to produce an interactive Choose your own adventure game using React. Prototyped user interface and mapped logical output for story progression and tested using JSON server.",
+            "tools": "React, JavaScript, JSON Server, Bootstrap, Visual Studio Code.",
+            "url": "https://github.com/sophiemcgarity/junglegame-react",
+            "fromDate": "December 2019",
+            "toDate": "Ongoing"
+        },
+        {
+            "position": "Video Animator Intern",
+            "organization": "De Montfort University, Leicester, UK",
+            "aboutWork": "Collaborated with lead designer to improve upon existing 3D animated videos to promote artwork from storyboarding through to production",
+            "tools": "Adobe Illustrator, Photoshop, Premiere Pro, Audition.",
+            "fromDate": "August 2018",
+            "toDate": "February 2019"
+        }
+    ],
+    "education": [
+        {
+            "school": "NuCamp Coding Boot Camp",
+            "location": "Bellevue, WA",
+            "degree": "Full Stack Web and Mobile Development",
+            "achievement": "Front End Certificate of Honor",
+            "fromDate": "Oct 2019",
+            "toDate": "Feb 2020",
+            "class1": "Front-End Web Development: React",
+            "class2": "Multiplatform Mobile App Development: React Native",
+            "class3": "Front-End UI Frameworks and Tools: Bootstrap"
+            
+        },
+        {
+            "school": "De Montfort University",
+            "location": "Leicester, UK",
+            "degree": "Bachelor of Science",
+            "major": "Media Production",
+            "fromDate": "Sept 2016",
+            "toDate": "July 2019",
+            "achievement": "First Class Honors Graduate",
+            "activity": "Tae Kwon-Do Team Captain, Volunteer Sports Coach",
+            "class1": "Multimedia Web Development",
+            "class2": "3D Modelling and Animation",
+            "class3": "Creative Image Production"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Responsive design"
+        },
+        {
+            "name": "Testing and Debugging"
+        }
+    ],
+    "interests": {
+        "paragraphOne": "In my free time I often play video games. I love games from a variety of genres from MMOs like World of Warcraft to platformers such as the Super Mario series. This hobby stemmed into another pastime of learning how to build games using Unity and C#. I'm thankful for the large number of free tutorials available online to fuel my game building curiosities. Here are a couple examples of what I've been able to produce as a result."
+    },
+    "awards": [
+        {
+            "awardDetail": "Learning Functional Programming with JavaScript",
+            "organization": "Lynda.com",
+            "url": "https://www.lynda.com/JavaScript-tutorials/Learning-Functional-Programming-JavaScript/585272-2.html",
+            "date": "Jan 2020"
+        },
+        {
+            "awardDetail": "SQL Essential Training",
+            "organization": "Lynda.com",
+            "url": "https://www.lynda.com/SQL-tutorials/SQL-Essential-Training/2825374-2.html",
+            "date": "Jan 2020"
+        }
+    ]
+}
